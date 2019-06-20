@@ -1,0 +1,6 @@
+a1=list(input())
+a2=[]
+for am in a1:
+    if(am.isdigit()):
+        a2.append(am)
+print(''.join(a2))
