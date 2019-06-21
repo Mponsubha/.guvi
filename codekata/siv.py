@@ -1,2 +1,2 @@
-k=int(input())
-print(k+273)
+ass=int(input())
+print(ass+273)
